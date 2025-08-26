@@ -1,0 +1,7 @@
+title: "Desk Organizers For Remote Work"
+description: "Insights and guides about desk organizers for remote work"
+theme: jekyll-theme-minimal
+url: "https://calcifergtp-glitch.github.io"
+baseurl: "/desk-organizers-for-remote-work"
+plugins:
+  - jekyll-sitemap
